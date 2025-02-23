@@ -36,37 +36,37 @@ export const assets = {
 export const projectsData = [
     {
       title: "Skyline Haven",
-      price: "$2,50,000",
+      price: "₹2,50,000",
       location: "California",
       image: project_img_1
     },
     {
       title: "Vista Verde",
-      price: "$2,50,000",
+      price: "₹2,50,000",
       location: "San Francisco",
       image: project_img_2
     },
     {
       title: "Serenity Suites",
-      price: "$2,50,000",
+      price: "₹2,50,000",
       location: "Chicago",
       image: project_img_3
     },
     {
       title: "Central Square",
-      price: "$2,50,000",
+      price: "₹2,50,000",
       location: "Los Angeles",
       image: project_img_4
     },
     {
       title: "Vista Verde",
-      price: "$2,50,000",
+      price: "₹2,50,000",
       location: "San Francisco",
       image: project_img_5
     },
     {
       title: "Serenity Suites",
-      price: "$2,50,000",
+      price: "₹2,50,000",
       location: "Chicago",
       image: project_img_6
     },
@@ -75,27 +75,27 @@ export const projectsData = [
 
   export const testimonialsData = [
     {
-        name: "Donald Jackman",
-        title: "Marketing Manager",
+        name: "Amit Sharma",
+        title: "Homeowner",
         image: profile_img_1,
-        alt: "Portrait of Donald Jackman",
+        alt: "Portrait of Amit Sharma",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "The team made my home-buying experience smooth and stress-free. They provided great insights, negotiated well, and found me the perfect house within my budget. Highly recommended!"
     },
     {
-        name: "Richard Nelson",
-        title: "UI/UX Designer",
+        name: "Priya Verma",
+        title: "Investor",
         image: profile_img_2,
-        alt: "Portrait of Richard Nelson",
+        alt: "Portrait of Priya Verma",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "As a real estate investor, I needed expert guidance to find the right property. Their team was knowledgeable, professional, and helped me secure a high-value investment."
     },
     {
-        name: "James Washington",
-        title: "Co-Founder",
+        name: "Rahul Mehta",
+        title: "First-Time Buyer",
         image: profile_img_3,
-        alt: "Portrait of James Washington",
+        alt: "Portrait of Rahul Mehta",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Buying my first home felt overwhelming, but their team made the process easy. They answered all my questions, handled paperwork efficiently, and found me a dream home!"
     }
 ];

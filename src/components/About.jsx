@@ -28,7 +28,9 @@ const About = () => {
             <p>Ongoing Project</p>
            </div>
          </div>
-         <p className='my-10 max-w-lg'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta atque aliquid ad. Facilis dicta dolore perspiciatis ducimus earum reiciendis repellendus, ipsa, corrupti delectus voluptatibus modi praesentium ex culpa molestias ad voluptas minima odio. Sed consequuntur odit sapiente eligendi reprehenderit iusto sequi dolores quae! Delectus, nisi.</p>
+         <p className='my-10 max-w-lg'>Building Dreams, Creating Excellence
+
+          With 12+ years of expertise, we have successfully completed 20+ projects and delivered 25+ million sq. ft. of premium spaces. Our commitment to quality, innovation, and customer satisfaction drives us to create modern, sustainable, and inspiring real estate solutions.</p>
            <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn more</button>
       </div>
       </div>
